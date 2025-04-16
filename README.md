@@ -8,7 +8,7 @@ This project aims to predict the spontaneity level of a person using 34 extracte
 It’s a **supervised regression** problem using the dataset `allFeaturesProcessedTraining.csv`.
 
 ## Files
-- `ExamenIAA_EMNAKRAIEM.ipynb`: Main notebook with preprocessing, training & evaluation
+- `RESULTATS.ipynb`: Main notebook with preprocessing, training & evaluation
 - `model_gb_boosted.pkl`: Trained model
 - `Resultats.csv`: Predictions
 
